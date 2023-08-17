@@ -1,7 +1,7 @@
 # Semester_Project
-## Name: 
-## Program:
-## Index Number:
+## Name: Yeboaa Constance
+## Program: Information Technology (B)
+## Index Number: UEB3219822
 Project Description
 ## Vodafone Cash Clone
 The Vodafone Cash Clone Mini Console Application is a C++ project that aims to
